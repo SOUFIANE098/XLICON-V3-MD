@@ -50,13 +50,13 @@ global.location = process.env.GL_INFO || "MOROCCO, KSAR EL KEBIR" //ur location
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || 'RICK_02' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '212664171890' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'SOUFIANE' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "https://www.youtube.com/@eren_yeeger9079"
 //________________________________________________________________________________________________________
 global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/L8pXXpk4qecAKZFycMFAi9"
 //________________________________________________________________________________________________________
@@ -64,7 +64,7 @@ global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/SOUFIANE098' //script link
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "SOUFIANE"
 //________________________________________________________________________________________________________
